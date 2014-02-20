@@ -1,0 +1,7 @@
+{
+  "name": "ramitos-resize",
+  "version": "0.1.0",
+  "main": "src/resize.js",
+  "dependencies": {},
+  "license": "MIT"
+}
